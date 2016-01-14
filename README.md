@@ -7,4 +7,4 @@
 
 *每个题都留有答案，供大家参考
 
-*下载地址是http://vdisk.weibo.com/s/oAscZZbHSZl
+*《acm程序设计》的下载地址是http://vdisk.weibo.com/s/oAscZZbHSZl
